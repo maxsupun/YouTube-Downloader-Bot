@@ -13,7 +13,7 @@
     - python3 -m bot
     
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hackelite01/youtubedownloaderbot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hackelite01/youtubedownloaderbot)
 
 # Join Us on Telegram
 
