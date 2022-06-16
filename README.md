@@ -15,7 +15,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/maxsupun/YouTube-Downloader-Bot)
 
-All credits to [hackelite01](https://github.com/hackelite01)
+## All credits to [hackelite01](https://github.com/hackelite01)
 
 # Join Us on Telegram
 
