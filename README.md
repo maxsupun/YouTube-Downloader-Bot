@@ -1,4 +1,4 @@
-# Youtube Downloader bot 😉
+# Youtube Downloader bot
 
 <img src="https://telegra.ph/file/7e47200a0778599dfb5fe.jpg" width="400">
 
