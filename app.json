@@ -5,9 +5,9 @@
   "keywords": [
     "Youtube","YoutubeDownloader"
   ],
-  "repository": "https://github.com/hackelite01/youtubedownloaderbot",
+  "repository": "https://github.com/maxsupun/YouTube-Downloader-Bot",
   "success_url": "http://t.me/y0utube_downloader_bot",
-  "website": "https://github.com/hackelite01/youtubedownloaderbot",
+  "website": "https://github.com/maxsupun/YouTube-Downloader-Bot",
   "env": {
         "API_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
