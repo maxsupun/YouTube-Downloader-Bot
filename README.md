@@ -1,10 +1,10 @@
 # Youtube Downloader bot
 
-<img src="https://telegra.ph/file/7e47200a0778599dfb5fe.jpg" width="400">
+<img src="https://telegra.ph/file/b9a3a5cc3402b7488d925.jpg" width="400">
 
-## Prerequisite
-    ffmpeg
-  
+
+
+
     
 ## install dependencies
     pip3 install -r requirements.txt
